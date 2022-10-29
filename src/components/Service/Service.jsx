@@ -27,7 +27,7 @@ const Service = () => {
             </li>
             <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Proudct analysis</p>
+                <p>Product analysis</p>
             </li>
             <li>
                 <BiCheck className='service__list-icon'/>
