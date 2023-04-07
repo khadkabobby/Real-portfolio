@@ -23,5 +23,11 @@ const Data = [
     link1: "https://github.com/khadkabobby/Bobbydzign",
     link2: "https://bobbydzign.netlify.app/",
   },
+  {
+    img: "portfolio5.png",
+    title: "Movix App",
+    link1: "https://github.com/khadkabobby/Movix-web-app",
+    link2: "https://movix-bobby.netlify.app/",
+  },
 ];
 export default Data;
