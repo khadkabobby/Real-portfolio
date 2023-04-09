@@ -21,7 +21,7 @@ const Data = [
     img: "portfolio2.jpg",
     title: "University website",
     link1: "https://github.com/khadkabobby/University-website",
-    link2: "https://universitybobby.netlify.app/contact.html",
+    link2: "https://universitybobby.netlify.app/",
   },
   {
     img: "portfolio1.jpg",
