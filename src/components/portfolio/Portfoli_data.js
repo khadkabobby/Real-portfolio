@@ -1,9 +1,39 @@
 const Data = [
   {
+    img: "portfolio6.png",
+    title: "MERN Ecommerce App",
+    link1: "https://github.com/khadkabobby/Ecommerce-frontend",
+    link2: "https://bobcom.netlify.app/",
+  },
+  {
     img: "portfolio5.png",
     title: "Movix App",
     link1: "https://github.com/khadkabobby/Movix-web-app",
     link2: "https://movix-bobby.netlify.app/",
+  },
+  {
+    img: "portfolio7.png",
+    title: "AirBnb Clone",
+    link1: "https://github.com/khadkabobby/Airbnbclone",
+    link2: "https://airbnbclonebybobby.netlify.app/",
+  },
+  {
+    img: "portfolio10.png",
+    title: "Redux Toolkit Project",
+    link1: "https://github.com/khadkabobby/Redux-toolkit-project",
+    link2: "https://reduxtoolkitbybobby.netlify.app/",
+  },
+  {
+    img: "portfolio9.png",
+    title: "Weather App(Rapid api)",
+    link1: "https://github.com/khadkabobby/Weather-app",
+    link2: "https://weatherappbobby.netlify.app/",
+  },
+  {
+    img: "portfolio8.png",
+    title: "Tailwind CSS Project",
+    link1: "https://github.com/khadkabobby/Herobank",
+    link2: "https://herobank.netlify.app/",
   },
   {
     img: "portfolio4.png",
