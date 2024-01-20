@@ -4,7 +4,7 @@ import "./portfolio.css";
 
 const Portfolio = () => {
   return (
-    <section>
+    <section id='portfolio'>
       <h5>My recent Work</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio__container">

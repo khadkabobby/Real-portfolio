@@ -8,7 +8,7 @@ import {BsLinkedin} from "react-icons/bs";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>BOBBY</a>
+      <a href="#" className='footer__logo'>BABI</a>
       <ul className="footer_permalinks">
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
@@ -25,7 +25,7 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/bobby-khadka-972494225/" rel="noreferrer" target="_blank"><BsLinkedin/></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Bobby Khadka. All rights reserverd</small>
+        <small>&copy; Babi Khadka. All rights reserverd</small>
       </div>
     </footer>
   )

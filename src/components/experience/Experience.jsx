@@ -90,7 +90,7 @@ const Experience = () => {
               <article className="experience__details">
                 <BsFillPatchExclamationFill className='learning'/>
                <div>
-                 <h4>Python</h4>
+                 <h4>Java</h4>
                 <small className="text-light">Learning</small>
                </div>
               </article>
